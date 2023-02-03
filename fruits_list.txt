@@ -1,0 +1,8 @@
+mango 5 10
+apple 6 20
+grapes 4 30
+orange 9 40
+pineapple 10 50
+chikku 3 60
+papaya 15 70
+watermellon 20 80
